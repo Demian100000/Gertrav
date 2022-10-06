@@ -72,7 +72,7 @@ nav :hover{
     align-items: center;
     flex-direction: row;
     justify-content: center;
-    background-image: url(/Alemania/Ale.img/Alemania.jpg);
+    background-image: url(Ale.img/Alemania.jpg);
     background-size: cover;
     margin: auto;
     border-radius: 30px;
@@ -230,7 +230,7 @@ nav :hover{
     width: 500px;
     background-color: pink;
     margin-top: 50px;
-    background-image: url(/Alemania/Ale.img/Alemania2.jpg);
+    background-image: url(Ale.img/Alemania2.jpg);
     background-size: cover;
     border-radius: 15px;
     box-shadow: 30px;
@@ -344,7 +344,7 @@ nav :hover{
     padding: 30px;
     margin: auto;
     margin-top: 30px;
-    background-image: url(/Alemania/Ale.img/Vuelos.jpg);
+    background-image: url(Ale.img/Vuelos.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 500px 400px;
@@ -440,7 +440,7 @@ nav :hover{
     padding: 30px;
     margin: auto;
     margin-top: 30px;
-    background-image: url(/Alemania/Ale.img/Hotel.jpg);
+    background-image: url(Ale.img/Hotel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -532,7 +532,7 @@ nav :hover{
     padding: 30px;
     margin: auto;
     margin-top: 30px;
-    background-image: url(/Alemania/Ale.img/Transporte.jpg);
+    background-image: url(Ale.img/Transporte.jpg);
     background-repeat: no-repeat;
     background-size: 500px 400px;
     display: flex;
@@ -665,7 +665,7 @@ footer{
 .escuela{
     height: 60px;
     width: 60px;
-    background-image: url(/Alemania/Ale.img/Estudia.png);
+    background-image: url(Ale.img/Estudia.png);
     background-size: 60px, 60px;
     background-repeat: no-repeat;
     justify-content: right;
@@ -697,7 +697,7 @@ footer{
 .Redesimg{
     height: 40px;
     width: 40px;
-    background-image: url(/Alemania/Ale.img/Redes.png);
+    background-image: url(Ale.img/Redes.png);
     background-size: 40px, 40px;
     background-repeat: no-repeat;
     justify-content: right;
@@ -723,7 +723,7 @@ footer{
 .Ig{
     height: 40px;
     width: 40px;
-    background-image: url(/Alemania/Ale.img/Insta.png);
+    background-image: url(Ale.img/Insta.png);
     background-size: 40px, 40px;
     background-repeat: no-repeat;
     margin-top: 20px;
@@ -747,7 +747,7 @@ footer{
 .Tw{
     height: 40px;
     width: 40px;
-    background-image: url(/Alemania/Ale.img/Twitter.png);
+    background-image: url(Ale.img/Twitter.png);
     background-size: 40px, 40px;
     background-repeat: no-repeat;
     margin-top: 20px;
@@ -770,7 +770,7 @@ footer{
 .Fb{
     height: 40px;
     width: 40px;
-    background-image: url(/Alemania/Ale.img/Facebook.png);
+    background-image: url(Ale.img/Facebook.png);
     background-size: 40px, 40px;
     background-repeat: no-repeat;
     margin-top: 20px;
@@ -794,7 +794,7 @@ footer{
 .Embajada{
     height: 40px;
     width: 40px;
-    background-image: url(/Alemania/Ale.img/Embajada.png);
+    background-image: url(Ale.img/Embajada.png);
     background-size: 40px, 40px;
     background-repeat: no-repeat;
     justify-content: right;
